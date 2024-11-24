@@ -1,4 +1,4 @@
-# Naan-Mudhalvan-Project
+# Naan-Mudhalvan-Project(GROCERY - WEBAPP)
 
 This project is part of the Naan Mudhalvan initiative to build a user-friendly, feature-rich, and interactive online grocery shopping platform. It aims to simplify grocery shopping by providing users with access to a wide variety of products, personalized recommendations, and seamless checkout options, while enabling store owners to manage inventory, track orders, and enhance customer satisfaction effectively.
 
