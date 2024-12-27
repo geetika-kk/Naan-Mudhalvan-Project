@@ -1,5 +1,5 @@
 # DEMO VIDEO
-[Click here for the demo video](https://drive.google.com/file/d/1GseYAnYKOp3xRC0KD6zjWVprTiEygRDK/view?usp=drive_link)
+[Click here for the demo video](https://drive.google.com/file/d/1k-7-pxZ3cdb8y5eoTM8YcyXWZSTZEfi5/view?usp=sharing)
 
 # Naan-Mudhalvan-Project
 
@@ -23,4 +23,4 @@ L Siva
 2021115330  
 au2021115330  
 
-[Click here for the demo video](https://drive.google.com/file/d/1GseYAnYKOp3xRC0KD6zjWVprTiEygRDK/view?usp=drive_link)
+[Click here for the demo video](https://drive.google.com/file/d/1k-7-pxZ3cdb8y5eoTM8YcyXWZSTZEfi5/view?usp=sharing)
